@@ -1,2 +1,2 @@
 # ProyectoRyC
- proyecto en react con SASS y webpack
+ Proyecto en donde utilizo SASS y webpack con React y la api de Rick Y morty
